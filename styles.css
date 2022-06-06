@@ -1036,11 +1036,11 @@ th:last-child {
 
 .store-item {
   border: 1px solid var(--grey1);
-  border-radius: 2rem;
+  border-radius: 20%;
   
 }
 
 .store-item img {
   width: 80px;
-  border-radius: 2rem;
+  border-radius: 25%;
 }
