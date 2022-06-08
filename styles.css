@@ -1030,17 +1030,15 @@ th:last-child {
   }
 }
 
-.store {
-  display: block;
-}
 
-.store-item {
+
+.store .store-item {
   border: 1px solid var(--grey1);
   border-radius: 20%;
   
 }
 
-.store-item img {
+.store .store-item img {
   width: 80px;
   border-radius: 25%;
 }
